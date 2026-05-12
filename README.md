@@ -1,2 +1,1 @@
-# OnlineOrder
-คำสั่งซื้อออนไลน์-ดูเวลา-detail
+Run with: python3 -m streamlit run app.py

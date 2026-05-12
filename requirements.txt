@@ -1,5 +1,6 @@
 streamlit
 pandas
 openpyxl
-Plotly
-Bumpy
+plotly
+numpy
+Pillow
